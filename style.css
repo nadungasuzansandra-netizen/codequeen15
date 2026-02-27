@@ -13,10 +13,10 @@ h1{
 .first{
     margin: 20px; 
     padding: 30px;
-}
-    img{
-        width: 200px;
-    }
+/* }
+    /* img{
+        width: 200px; */
+    } */
 
 .mangoes{
     color: blue;
@@ -71,10 +71,15 @@ h1{
 .last{
     border: 1px dashed;
     display: flex;
-}
-img{
+/* }
+/* /* .my-image{
     width: 50px;
      border-radius: 50px;
      justify-content: center;
      flex-direction: column;
+} */  */
+/* Bootstrap */
+.flowers{
+    background-color:purple;
+    border: 3px red dashed;
 }
